@@ -17,6 +17,6 @@ I am dedicated to fostering and investing in groundbreaking and impactful startu
 
 👨‍💻 **Let’s Connect!**
 I am enthusiastic about meeting fellow entrepreneurs, developers, tech aficionados, and anyone passionate about innovation and technology. Feel free to reach out if you're interested in collaboration or wish to discuss the limitless possibilities in the tech world. 
-
-🛠 Skills
+  
+🛠 Skills:  
 HTML, CSS, PHP, SQL, Python, Selenium, AWS, Google Cloud, Azure, Linux (Ubuntu & Debian), Windows Server.
