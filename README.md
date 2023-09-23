@@ -1,7 +1,7 @@
 
 ### Chris Swain: Tech Entrepreneur and Investor
 
-👋 Hello there! I'm Chris, a dynamic tech entrepreneur and investor residing in the heart of Cincinnati, Ohio. I’ve dedicated my professional journey to exploring the myriad realms of technology, establishing startups, and delving deep into the intricate world of development. My endeavors are driven by a relentless passion for innovation and a desire to employ technology in addressing contemporary challenges.
+👋 Hello there! I'm Chris, a dynamic tech entrepreneur and investor residing in the heart of Cincinnati, Ohio. I’ve dedicated my professional journey to exploring the myriad realms of technology, establishing startups, and delving deep into the intricate world of development. My endeavors are driven by a relentless passion for innovation and a desire to employ technology in addressing business challenges.
 
 🚀 **Entrepreneurial Journey:**
 With my roots deeply embedded in the startup environment, I've initiated several ventures, focusing primarily on leveraging technology to generate revenue. My comprehensive understanding of digital presence and market dynamics has been instrumental in steering these startups toward realizing their full potential in the digital realm.
